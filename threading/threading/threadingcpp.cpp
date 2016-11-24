@@ -26,7 +26,7 @@ unsigned int __stdcall mythread(void*)
 		}
 		return 0;
 	}
-
+	/*
 	int main() {
 		HANDLE handleA, handleB;
 
@@ -44,3 +44,4 @@ unsigned int __stdcall mythread(void*)
 
 
 	}
+	*/
